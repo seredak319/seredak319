@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Krystian</h1>
 <h3 align="center">A passionate programmer ( ͡° ͜ʖ ͡°)</h3>
 
-- 🔭 I’m currently working on **Computer Networks Project (CGNAT + VPN vs. NAT)**
+- 🔭 I’m currently working on:
+-      Full Stack web app using Spring Boot and React + PostgreSQL
+Check if it's finished!
+www.seredacomapny.pl
+-      Individual Computer Networks Project in University of Technology
+
 
 - 🌱 I’m currently learning **REACT, Spring, JS**
 
