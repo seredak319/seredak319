@@ -2,17 +2,13 @@
 <h3 align="center">A passionate programmer ( ͡° ͜ʖ ͡°)</h3>
 
 - 🔭 I’m currently working on:
--      Full Stack web app using Spring Boot and React + PostgreSQL
-Check if it's finished!
-www.seredacomapny.pl
+-      complex Online Shop project
 -      Individual Computer Networks Project in University of Technology
 
 
-- 🌱 I’m currently learning **REACT, Spring, JS**
+- 🌱 I’m currently learning **Angular and Spring, **
 
-- ⚡👀 I’m currently working on **Own server with services**
-
-- 🤓 Fun fact **I had many minecraft servers as a twelve year old**
+- 🤓 Fun fact **I had many minecraft servers as a teenager**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
