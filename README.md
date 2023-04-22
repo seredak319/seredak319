@@ -4,8 +4,6 @@
 - 🔭 I’m currently working on:
 -      complex Online Shop project
 -      Individual Computer Networks Project in University of Technology
-
-
 - 🌱 I’m currently learning **Angular and Spring, **
 
 - 🤓 Fun fact **I had many minecraft servers as a teenager**
