@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Krystian</h1>
 <h3 align="center">A passionate programmer ( ͡° ͜ʖ ͡°)</h3>
 
-- 🔭 I’m currently working on:
--      complex Online Shop project
--      Individual Computer Networks Project in University of Technology
-- 🌱 I’m currently learning **Angular and Spring, **
+🔭 I’m currently working on:
+- Complex Online Shop project
+- Individual Computer Networks Project in University of Technology 
 
-- 🤓 Fun fact **I had many minecraft servers as a teenager**
+🌱 I’m currently learning **Angular and Spring**
+
+🤓 Fun fact **I had many minecraft servers as a teenager**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
