@@ -5,7 +5,7 @@
 - Complex Online Shop project
 - Individual Computer Networks Project in University of Technology 
 
-🌱 I’m currently learning **Angular and Spring**
+🌱 I’m currently learning **React and Spring**
 
 🤓 Fun fact **I had many minecraft servers as a teenager**
 
